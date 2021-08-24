@@ -1,0 +1,1 @@
+PATH=/home/osrf/ws/ros2/src/clang_tidy_examples/ament_cmake/fake_bin/:$PATH colcon test --event-handlers console_direct+ --packages-select clang_tidy_ament_cmake_example
