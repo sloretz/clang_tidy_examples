@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.6.3)
 project(clang_tidy_ament_cmake_what_if_example)
 
 # find dependencies
